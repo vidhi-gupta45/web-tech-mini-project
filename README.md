@@ -3,10 +3,7 @@
 A simple and visually appealing **Travel Enquiry Website** built using HTML, CSS, and JavaScript.  
 This project demonstrates **Filtering (primary focus)** and **Dynamic Content (secondary focus)** for a web technologies mini project.
 
----
 
-## 🚀 Live Demo
-👉 https://your-username.github.io/travel-enquiry-website/
 
 ---
 
